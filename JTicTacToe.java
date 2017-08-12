@@ -58,7 +58,6 @@ public class JTicTacToe extends JFrame
 	private int[] vitoria02 = {0, 0, 0};
 	private int[] empate = {0, 0, 0};
 	
-	private int cont = 0;
 	private int draw = 0;
 	private Point drawBegin = new Point(-1, -1);
 	private Point drawEnd = new Point(-1, -1);
