@@ -73,7 +73,7 @@ public class JTicTacToe extends JFrame
 	//********************************************************************************************************************************************
 	
 	//*** Procedimentos de Inicializacao *********************************************************************************************************
-	private void inicializaCmponentes() {
+	private void inicializaCponentes() {
 	
 		//Instanciar os Componentes
 		this.setLayout(null);
