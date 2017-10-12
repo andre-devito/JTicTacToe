@@ -82,13 +82,13 @@ public class JTicTacToe extends JFrame
 		this.menubarPrincipal = new JMenuBar();
 		
 		this.menuArquivo = new JMenu("Arquivo");
-		this.menuOpcoes = new JMenu("Opçoes");
+		this.menuOpcoes = new JMenu("Opcoes");
 		this.menuTipoJogo = new JMenu("Tipo de Jogo");
 		
 		this.menuitemSair = new JMenuItem("Sair");
 		this.menuitemNovoJogo = new JMenuItem("Novo Jogo");
 		this.menuitemCancelarJogo = new JMenuItem("Cancelar Jogo");
-		this.menuitemEstatisticas = new JMenuItem("Estatísticas");
+		this.menuitemEstatisticas = new JMenuItem("Estatisticas");
 		
 		this.btngroupTipoJogo = new ButtonGroup();
 		this.rbtitemHumanoHumano = new JRadioButtonMenuItem("Humano VS. Humano");
